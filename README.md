@@ -1,6 +1,9 @@
 Name : Mahalakshmi k
+
 Reg no: 212222240057
+
 Date:
+
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
